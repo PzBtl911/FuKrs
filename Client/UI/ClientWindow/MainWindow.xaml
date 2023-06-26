@@ -10,7 +10,7 @@
                       xmlns:resx="clr-namespace:Ciribob.FS3D.SimpleRadio.Standalone.Client.Properties"
                       xmlns:clientSettingsControl="clr-namespace:Ciribob.FS3D.SimpleRadio.Standalone.Client.UI.ClientWindow.ClientSettingsControl"
                       xmlns:inputSettingsControl="clr-namespace:Ciribob.FS3D.SimpleRadio.Standalone.Client.UI.ClientWindow.InputSettingsControl"
-                      Title="FS3D SRS Client"
+                      Title="Steel Beasts SRS Client"
                       Width="550"
                       Height="590"
                       d:DataContext="{d:DesignInstance clientWindow:MainWindowViewModel}"

@@ -155,7 +155,7 @@
                            Grid.Column="0"
                            HorizontalContentAlignment="Center"
                            VerticalContentAlignment="Center"
-                           Content="Aircraft ID - Must match for the intercom to function" />
+                           Content="Vehicle ID - Must match for the intercom to function" />
 
                     <TextBox
                         Grid.Row="10"
