@@ -1,6 +1,6 @@
 # DCS-SimpleRadioStandalone
 
-![Static Badge](https://img.shields.io/badge/status-paused-orange)
+![Static Badge](https://img.shields.io/badge/status-evaluate-orange)
 
 An open source Stand alone Radio for Steel Beast
 
